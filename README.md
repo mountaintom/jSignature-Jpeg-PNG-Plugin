@@ -25,4 +25,4 @@ This sets the jSignature pad line color to blue with an Undo button. The image w
 
 --Tom   mtm{removethis}@mountaintom.com
 
-
+..
